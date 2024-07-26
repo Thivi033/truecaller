@@ -1,0 +1,21 @@
+.student-details {
+    text-align: left;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    max-width: 600px;
+    background-color: #f9f9f9;
+  }
+  
+  .student-details p {
+    margin: 10px 0;
+  }
+  
+  .student-details img.student-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+  }
+  

@@ -1,0 +1,23 @@
+.navbar {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .topNav {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .topNav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+  }
+  
+  .topNav a:hover {
+    text-decoration: underline;
+  }
+  
